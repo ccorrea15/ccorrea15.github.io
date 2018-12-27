@@ -1,0 +1,30 @@
+body {
+    background-color: #00266a;
+    color: white;
+    font-family: "Quicksand", sans-serif;
+}
+
+h1{
+    color: #ffb700;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-size: 50px
+    font-weight:bold;
+    font-style: italic;
+    font-family:"Raleway", sans-serif;
+}
+
+h2{
+  text-align: center;
+  letter-spacing: 2px
+}
+
+.title:hover{
+  color: red;
+  padding-bottom: 30px;
+}
+
+img{
+  text-align: center;
+}
